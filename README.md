@@ -1,16 +1,12 @@
-### Hi there 👋
+🚀Eu sou o Lucas Gabriel sou Programador Front End, atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
 
-<!--
-**lucasslayy/lucasslayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+<br>
+𝐂𝐨𝐧𝐭𝐚𝐭𝐨
+<p>
+<a href=https://www.instagram.com/lucasslayy/"; >
+<img align= "left" alt ="insta-logo" with"22px"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt ="insta-logo" />
+</p>
