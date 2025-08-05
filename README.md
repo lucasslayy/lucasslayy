@@ -2,9 +2,6 @@
 
  
 
-
-# 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
@@ -30,7 +27,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-### 📊 Estatísticas
 
 <p>
   <img 
