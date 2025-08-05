@@ -26,8 +26,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
-<br>
 <p>
   <img 
     align="left" 
@@ -36,7 +34,7 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=lucasslayy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
