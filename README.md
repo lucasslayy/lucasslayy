@@ -1,4 +1,4 @@
-👨🏽‍💻 Eu sou o Lucas Gabriel sou Programador Front-end, atualmente estou aprendendo e criando projetos com:
+👨🏽‍💻 Sou Programador Front-end, atualmente estou aprendendo e criando projetos com:
 
  
 
