@@ -1,6 +1,5 @@
 👨🏽‍💻 Sou Programador Front-end, atualmente estou aprendendo e criando projetos com:
 
- 
 
 <img 
     align="left" 
@@ -26,6 +25,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 
 <br>
 <p>
